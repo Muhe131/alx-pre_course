@@ -1,10 +1,1 @@
-git push
-git commit
-git add .
-git clone
 git checkout
-git status
-git commit -m
-git push -b <branch name>
-git checkout -b <branchname>
-git push origin master
